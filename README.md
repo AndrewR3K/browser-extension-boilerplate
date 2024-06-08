@@ -12,25 +12,25 @@
 ## Installation
 
 ```bash
-$ yarn install
+$ npm install
 ```
 
 ## Build - Development
 
 ```bash
-$ yarn run dev
+$ npm run dev
 ```
 
 ## Build - Production
 
 ```bash
-$ yarn run build
+$ npm run build
 ```
 
 ## Package for distribution
 
 ```bash
-$ yarn run pack
+$ npm run pack
 ```
 
 ## Contributing

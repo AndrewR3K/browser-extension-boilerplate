@@ -1,12 +1,12 @@
 {
   "name": "extensionboilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "pack": "yarn run build && yarn run zip",
+    "pack": "npm run build && npm run zip",
     "zip": "node scripts/build-zip.js"
   },
   "dependencies": {
